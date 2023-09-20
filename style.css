@@ -1,0 +1,50 @@
+.top{
+border: solid red 5px;
+display: flex;
+min-height: 80px;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.rubrik{
+background-color: aqua;
+padding-left: 60px;
+padding-right: 60px;
+font-family: monospace;
+border: solid black 2px;
+}
+
+.mid{
+border: 1px solid red;
+
+
+}
+
+
+
+#vr{
+
+border: 2px solid;
+background-color: yellow;
+width: 49%;
+align-items: center;
+display: flex;
+justify-content: space-around;
+padding-top: 20px;
+padding-bottom: 20px;
+
+}
+#hr{
+
+    border: 2px solid;
+    background-color: pink;
+    width: 49%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+
+}
