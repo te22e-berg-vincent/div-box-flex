@@ -16,26 +16,37 @@ border: solid black 2px;
 }
 
 .mid{
-border: 1px solid red;
-
-
-}
-
-
-
-#vr{
-
-border: 2px solid;
-background-color: yellow;
-width: 49%;
+padding-top: 40px;
+padding-bottom: 40px;
 align-items: center;
-display: flex;
 justify-content: space-around;
-padding-top: 20px;
-padding-bottom: 20px;
+border: 2px solid orange;
+display: flex;
+font-family: monospace;
 
 }
-#hr{
+
+
+
+
+
+.vr{
+
+
+
+    border: 2px solid;
+    background-color: yellow;
+    width: 49%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.hr{
+
+
 
     border: 2px solid;
     background-color: pink;
@@ -45,6 +56,12 @@ padding-bottom: 20px;
     justify-content: space-around;
     padding-top: 20px;
     padding-bottom: 20px;
-    
 
+
+}
+
+#bot{
+
+border: 2px solid yellow;
+    
 }
